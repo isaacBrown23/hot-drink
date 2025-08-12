@@ -1,0 +1,252 @@
+[
+  {
+    "id": "e1b2c3d4-5a6b-7c8d-9e0f-1a2b3c4d5e6f",
+    "name": "Ethiopian Yirgacheffe",
+    "roast": "Light",
+    "price": 25,
+    "sale": null,
+    "shortDescription": "Floral, citrusy, bright",
+    "longDescription": "A delicate and aromatic light roastwith hints of lemon, jasmine, and berries. Grown at high altitudes, this coffee is loved for its complex and wine-like notes.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "f2c3d4e5-6b7c-8d9e-0f1a-2b3c4d5e6f7a",
+    "name": "Jamaican Blue Mountain",
+    "roast": "Medium",
+    "price": 60,
+    "sale": 51,
+    "shortDescription": "Smooth, mild, luxurious",
+    "longDescription": "One of the most prized coffees globally, it's ultra-smooth, low in acidity, and boasts notes of chocolate and floral undertones. Ideal for a refined palate.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "a3d4e5f6-7c8d-9e0f-1a2b-3c4d5e6f7a8b",
+    "name": "Kona Coffee (Hawaii)",
+    "roast": "Medium",
+    "price": 50,
+    "sale": null,
+    "shortDescription": "Sweet, nutty, balanced",
+    "longDescription": "Grown on the slopes of Hawaii’s Mauna Loa, Kona is smooth and mellow, with light acidity, a buttery body, and subtle nut and caramel notes.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "b4e5f6a7-8d9e-0f1a-2b3c-4d5e6f7a8b9c",
+    "name": "Colombian Supremo",
+    "roast": "Medium",
+    "price": 20,
+    "sale": 16,
+    "shortDescription": "Nutty, chocolaty, bold",
+    "longDescription": "A classic medium roastwith a full body, rich aroma, and deep chocolate undertones. Great for everyday drinkers who want consistency and flavor.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "c5f6a7b8-9e0f-1a2b-3c4d-5e6f7a8b9c0d",
+    "name": "Guatemalan Antigua",
+    "roast": "Medium",
+    "price": 22,
+    "sale": null,
+    "shortDescription": "Chocolate, spice, complex",
+    "longDescription": "Known for its full body and spicy notes, this coffee offers hints of cocoa, cinnamon, and sometimes even toffee. Grown in volcanic soil.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "d6a7b8c9-0f1a-2b3c-4d5e-6f7a8b9c0d1e",
+    "name": "Panama Geisha",
+    "roast": "Light to Medium",
+    "price": 70,
+    "sale": 56,
+    "shortDescription": "Floral, tea-like, exotic",
+    "longDescription": "A legendary and award-winning bean with jasmine, bergamot, and tropical fruit notes. Pricey, but renowned for its elegance and clean finish.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "e7b8c9d0-1a2b-3c4d-5e6f-7a8b9c0d1e2f",
+    "name": "Sumatra Mandheling",
+    "roast": "Medium-Dark",
+    "price": 23,
+    "sale": null,
+    "shortDescription": "Earthy, syrupy, rich",
+    "longDescription": "Full-bodied and low-acid with notes of earth, cocoa, and tobacco. Often a favorite for those who like bold and intense brews.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "f8c9d0e1-2b3c-4d5e-6f7a-8b9c0d1e2f3a",
+    "name": "Kenyan AA",
+    "roast": "Light to Medium",
+    "price": 28,
+    "sale": 23.8,
+    "shortDescription": "Bright, fruity, complex",
+    "longDescription": "High-acidity coffee with bright berry and citrus flavors, often with a winey aftertaste. AA signifies the largest, most premium beans.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "a9d0e1f2-3c4d-5e6f-7a8b-9c0d1e2f3a4b",
+    "name": "Costa Rican Tarrazu",
+    "roast": "Medium",
+    "price": 24,
+    "sale": null,
+    "shortDescription": "Clean, balanced, crisp",
+    "longDescription": "A smooth cup with crisp acidity and subtle citrus and honey notes. Great for a morning brew that isn’t too overpowering.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "b0e1f2a3-4d5e-6f7a-8b9c-0d1e2f3a4b5c",
+    "name": "Brazilian Santos",
+    "roast": "Medium",
+    "price": 18,
+    "sale": 15.3,
+    "shortDescription": "Mild, nutty, smooth",
+    "longDescription": "Brazil’s classic export, this coffee is mellow, low-acid, with chocolate and nutty tones. Works great for blends or espresso bases.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "c1f2a3b4-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+    "name": "Hawaiian Maui",
+    "roast": "Medium",
+    "price": 35,
+    "sale": null,
+    "shortDescription": "Fruity, smooth, tropical",
+    "longDescription": "A medium-bodied island coffee with light acidity and notes of passionfruit and floral undertones. Less famous than Kona but delightful.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "d2a3b4c5-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+    "name": "Tanzanian Peaberry",
+    "roast": "Medium",
+    "price": 26,
+    "sale": 20.8,
+    "shortDescription": "Juicy, fruity, zesty",
+    "longDescription": "Peaberries are small, round beans with intense, bright fruit flavors like blackcurrant and apricot. Bold and sharp in a good way.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "e3b4c5d6-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+    "name": "Sulawesi Toraja",
+    "roast": "Medium-Dark",
+    "price": 27,
+    "sale": null,
+    "shortDescription": "Earthy, spicy, full",
+    "longDescription": "Known for its rustic, bold profile with hints of dark chocolate, cedar, and spice. It’s complex, with a syrupy mouthfeel.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "f4c5d6e7-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+    "name": "Ethiopian Sidamo",
+    "roast": "Light",
+    "price": 23,
+    "sale": 18.4,
+    "shortDescription": "Berry-like, citrusy, sweet",
+    "longDescription": "Offers bright acidity with blueberry and lemon notes, and a light body. Naturally processed for layered flavors.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "a5d6e7f8-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+    "name": "Yunnan Golden Monkey (China)",
+    "roast": "Medium",
+    "price": 20,
+    "sale": null,
+    "shortDescription": "Sweet, mild, earthy",
+    "longDescription": "A unique Asian origin, with balanced acidity, mild earthiness, and light floral notes. Gaining popularity as specialty coffee.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "b6e7f8a9-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+    "name": "Blue Bottle Coffee (blend)",
+    "roast": "Medium",
+    "price": 26,
+    "sale": 22.1,
+    "shortDescription": "Balanced, fresh, modern",
+    "longDescription": "Blue Bottle’s signature blends are smooth and carefully roasted, often combining African brightness with Latin American body.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "c7f8a9b0-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+    "name": "Stumptown Hair Bender",
+    "roast": "Medium-Dark",
+    "price": 24,
+    "sale": null,
+    "shortDescription": "Bold, cocoa, spicy",
+    "longDescription": "A well-known house blend with a heavy body and deep chocolate and cinnamon notes. Great as espresso or French press.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "d8a9b0c1-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+    "name": "Intelligentsia Black Cat",
+    "roast": "Medium-Dark",
+    "price": 24,
+    "sale": 19.2,
+    "shortDescription": "Syrupy, smooth, rich",
+    "longDescription": "An espresso-focused blend, delivering dark fruit, chocolate, and caramel in a silky, punchy profile. Consistent and bold.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "e9b0c1d2-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
+    "name": "Lavazza Gran Aroma",
+    "roast": "Medium",
+    "price": 18,
+    "sale": null,
+    "shortDescription": "Mild, smooth, floral",
+    "longDescription": "Italian-style medium roastwith floral and fruity undertones. Great for those who want a refined but affordable cup.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "f0c1d2e3-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+    "name": "Illy Espresso",
+    "roast": "Medium",
+    "price": 22,
+    "sale": 17.6,
+    "shortDescription": "Elegant, balanced, rich",
+    "longDescription": "A premium Italian espresso known for its smooth, creamy mouthfeel and balance of bitterness and sweetness.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "a1d2e3f4-5c6d-7e8f-9a0b-1c2d3e4f5a6b",
+    "name": "Peet’s Major Dickason’s Blend",
+    "roast": "Dark",
+    "price": 20,
+    "sale": null,
+    "shortDescription": "Intense, smoky, bold",
+    "longDescription": "A classic dark roastwith rich, bold flavor and notes of spice and dark chocolate. Robust and satisfying for dark roastlovers.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "b2e3f4a5-6d7e-8f9a-0b1c-2d3e4f5a6b7c",
+    "name": "Death Wish Coffee",
+    "roast": "Dark",
+    "price": 25,
+    "sale": 21.25,
+    "shortDescription": "Extreme, strong, smooth",
+    "longDescription": "Marketed as the “world’s strongest coffee,” it’s ultra-caffeinated but surprisingly smooth with nutty and chocolate notes.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "c3f4a5b6-7e8f-9a0b-1c2d-3e4f5a6b7c8d",
+    "name": "Verve Streetlevel",
+    "roast": "Medium",
+    "price": 24,
+    "sale": null,
+    "shortDescription": "Fruity, sweet, balanced",
+    "longDescription": "A blend known for fruity notes and a clean, round body. Sweet with hints of citrus and a silky finish.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "d4a5b6c7-8f9a-0b1c-2d3e-4f5a6b7c8d9e",
+    "name": "La Colombe Corsica",
+    "roast": "Medium-Dark",
+    "price": 23,
+    "sale": 18.4,
+    "shortDescription": "Rich, cocoa, toasty",
+    "longDescription": "Hearty and bold with a dark cocoa body and roasted finish. Works well for milk-based drinks like lattes and cappuccinos.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  },
+  {
+    "id": "e5b6c7d8-9a0b-1c2d-3e4f-5a6b7c8d9e0f",
+    "name": "Blue Mountain Blend (various)",
+    "roast": "Medium",
+    "price": 28,
+    "sale": null,
+    "shortDescription": "Smooth, mellow, sweet",
+    "longDescription": "Typically a blend of Blue Mountain with other origins. Offers mellow acidity, a creamy body, and soft nutty-sweetness.",
+    "image": "https://via.placeholder.com/150?text=Coffee"
+  }
+]
