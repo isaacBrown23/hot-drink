@@ -26,8 +26,8 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git https://github.com/isaacBrown23/hot-drink.git
-   cd hotdrink
+   git clone https://github.com/isaacBrown23/hot-drink.git
+   cd hot-drink
    ```
 
 2. Install dependencies:
@@ -40,7 +40,7 @@ To run the project locally, follow these steps:
    npm run dev
    ```
 
-By default, the app will be available at `http://localhost:5173`.
+By default, the app will be available at `http://localhost:3000`.
 
 ## Project Structure
 
