@@ -26,7 +26,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hotdrinkv2.git
+   git https://github.com/isaacBrown23/hot-drink.git
    cd hotdrink
    ```
 
