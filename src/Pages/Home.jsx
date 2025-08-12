@@ -70,7 +70,7 @@ export default function Home() {
           </svg>
         </Link>
         <section className="home__customers">
-          <p className="home__customers-p">Whet are customers say</p>
+          <p className="home__customers-p">What our customers say</p>
           <div ref={scrollContainerRef} className="home__customers-items">
             {banners.map((banner, index) => (
               <div key={index} className="home__customers-items-item">

@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './style/index.scss';
-import { BrowserRouter, Routes, Route } from "react-router";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from './Pages/Home'
 import Contact from './Pages/Contact';
 import Products from './Pages/Products';
@@ -12,7 +12,7 @@ import SuccessPage from './Pages/Success';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <BrowserRouter>
+    <BrowserRouter basename="/hot-drink">
     <Routes>
       <Route index element={  <Home />}></Route>
       <Route path='/contact' element={  <Contact />}></Route>
