@@ -54,7 +54,7 @@ hotdrink/
 │   ├── style/             # SCSS stylesheets
 │   ├── App.jsx            # Main app component with routes
 │   ├── main.jsx           # React app entry point
-│   └── data.json          # Sample product data (optional)
+│   └── data.json          # Sample product data 
 ├── index.html             # Main HTML template
 ├── package.json           # Project dependencies and scripts
 ├── vite.config.js         # Vite configuration file
